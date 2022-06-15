@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Vily361
+- 👀 I’m interested in making Coding Languages!
+- 🌱 I’m currently learning C Sharp! (C#)
+- 📫 Reach me at v.pearl.dev@Gmail.com (V Pearl is an abandoned project)
